@@ -2,7 +2,7 @@
 
 Module Program
 
-    ' --- Testdaten (Teil 1 Stil) ---
+    ' --- Testdaten (Teil 1 Stil) ----
     Dim UserData As String =
         "U001,Max Johnson|" &
         "U002,Emily Smith|" &
